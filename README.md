@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Salmankhan Chauhan
 
-**QA Architect | 11+ Years in Automation | Web · API · Mobile · Desktop · CI/CD · GenAI in QA**  
+**QA Architect | 11+ Years in Automation | Web · API · Mobile · Desktop · GenAI in QA**  
 📍 Based in Toronto, Canada | Passionate about helping teams release faster, smarter, and bug-free.
 
 ---
@@ -36,7 +36,7 @@ I’ve led QA teams, collaborated with DevOps/Product/Engineering, and integrate
 ### 🛠️ Core Tech Stack
 - **Frameworks & Tools**: Selenium, Playwright, Appium, Robot Framework, PyTest, TestNG
 - **Languages**: Java, Python, JavaScript
-- **API & Performance Testing**: Postman, JMeter, REST Assured
+- **API & Performance Testing**: Postman, JMeter, RESTAssured
 - **CI/CD**: Jenkins, GitHub Actions, GitLab CI
 - **AI Explorations**: Prompt-based test generation, self-healing script POCs
 
