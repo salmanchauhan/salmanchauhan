@@ -19,32 +19,77 @@ Here are some ideas to get you started:
 - [🔗 GenAI for Test Case Suggestions (POC Coming Soon)](#)
 
 -->
-# 👋 Hi, I'm Salmankhan Chauhan
+# 👋 Hi, I'm Salman Chauhan
 
-**QA Architect | 11+ Years in Automation | Web · API · Mobile · Desktop · GenAI in QA**  
-📍 Based in Toronto, Canada | Passionate about helping teams release faster, smarter, and bug-free.
+**QA Leader | 11+ Years in Test Automation | Web · API · Mobile · Desktop**
+📍 Based in Toronto, Canada | Helping teams ship faster, smarter, and bug-free
 
----
+## 🚀 What I Do
 
-### 🚀 What I Do
-With 11+ years in Software Quality Engineering, I specialize in building **scalable, maintainable test automation frameworks** across diverse platforms and architectures. My work helps teams reduce regression cycles, tighten feedback loops, and elevate software quality.
+With 11+ years in Software Quality Engineering, I specialize in building **scalable, maintainable test automation frameworks** that help teams reduce regression cycles and deliver higher quality software faster.
 
-I’ve led QA teams, collaborated with DevOps/Product/Engineering, and integrated automation deeply into CI/CD pipelines. Lately, I’m exploring **Generative AI in QA** — to accelerate test creation, diagnose failures faster, and push the boundaries of what test automation can do.
+I've led QA teams, designed testing strategies from scratch, and deeply integrated automation into CI/CD pipelines. My frameworks have helped teams reduce testing time by up to 80% while improving coverage and reliability.
 
----
+## 📊 Impact & Achievements
+- **80% reduction** in regression testing time (300 → 60 hours)
+- **Led teams** of 10+ QA engineers across multiple projects
+- **Mentored 20+** junior testers into senior roles
+- **Designed frameworks** used across fintech and enterprise platforms
+- **Integrated testing** into CI/CD pipelines for continuous quality
 
-### 🛠️ Core Tech Stack
-- **Frameworks & Tools**: Selenium, Playwright, Appium, Robot Framework, PyTest, TestNG
+## 🛠️ Technical Expertise
+
+### Automation Frameworks
+- **Web**: Selenium WebDriver, Playwright, Robot Framework
+- **API**: Postman, REST Assured, PyTest
+- **Mobile**: Appium, Selenium Grid
+- **Performance**: JMeter, Load testing strategies
+
+### Programming & Tools
 - **Languages**: Java, Python, JavaScript
-- **API & Performance Testing**: Postman, JMeter, RESTAssured
 - **CI/CD**: Jenkins, GitHub Actions, GitLab CI
-- **AI Explorations**: Prompt-based test generation, self-healing script POCs
+- **Testing**: TestNG, PyTest, Cucumber, BDD
+- **Databases**: SQL, MongoDB basics
+- **Cloud**: AWS basics, Docker containers
 
----
+### Leadership & Process
+- Test strategy design and implementation
+- Cross-functional team collaboration
+- Agile/Scrum testing practices
+- QA process optimization
+- Technical mentoring and training
 
-### 📫 Let’s Connect!
-Whether you're building a QA team, optimizing test architecture, or experimenting with AI in testing — feel free to connect:
+## 🎯 Current Focus
+
+I'm passionate about:
+- Building resilient test automation architectures
+- Optimizing CI/CD integration for faster feedback
+- Scaling QA processes for growing teams
+- Exploring modern testing tools and practices
+
+## 📈 Featured Projects
+
+### Enterprise Test Automation Framework
+Designed and implemented a comprehensive automation framework that:
+- Reduced regression testing from 300 to 60 hours
+- Supported parallel execution across multiple environments
+- Integrated seamlessly with CI/CD pipelines
+- Provided detailed reporting and failure analysis
+
+### API Testing Strategy
+Built robust API testing suites that:
+- Covered 90%+ of critical business workflows
+- Automated performance and load testing
+- Integrated with monitoring and alerting systems
+- Supported multiple environments and data sets
+
+## 📫 Let's Connect!
+
+Whether you're building a QA team, optimizing test processes, or scaling automation strategies:
 
 - 🔗 [LinkedIn](https://linkedin.com/in/salmanchauhan)
 - 🌐 [Portfolio](https://salmanchauhan.github.io)
-- 📬 Email: salman.78692@gmail.com
+- 📧 Email: salman.78692@gmail.com
+
+---
+*"Quality is not an act, it is a habit" - Aristotle*
